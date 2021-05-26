@@ -1,0 +1,35 @@
+# Eclipse
+.metadata
+.recommenders
+.classpath
+.project
+.settings
+.factorypath
+.checkstyle
+.externalToolBuilders
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+out/
+
+# Netbeans
+nb-configuration.xml
+
+# Build
+/**/target/
+test-output
+/**/bin/
+
+# Misc.
+.DS_Store
+/**/dependency-reduced-pom.xml
+.vscode/
+tmp/
+
+# Gradle
+.gradle/
+/**/build/
+
